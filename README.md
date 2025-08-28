@@ -20,6 +20,7 @@ We bring joy to **home lovers, space lovers, and nature lovers** by offering the
 4. Get your little green bundle of joy delivered 🌿.  
 
 
+|| Run it inside the green folder with the node index.js command ||
 
 
 
